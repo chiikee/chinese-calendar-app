@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.366669d3.js",
-    "static/js/787.238c9406.chunk.js": "/static/js/787.238c9406.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.366669d3.js.map": "/static/js/main.366669d3.js.map",
-    "787.238c9406.chunk.js.map": "/static/js/787.238c9406.chunk.js.map"
+    "main.css": "/chinese-calendar-app/static/css/main.e6c13ad2.css",
+    "main.js": "/chinese-calendar-app/static/js/main.c5bb57ee.js",
+    "static/js/787.238c9406.chunk.js": "/chinese-calendar-app/static/js/787.238c9406.chunk.js",
+    "index.html": "/chinese-calendar-app/index.html",
+    "main.e6c13ad2.css.map": "/chinese-calendar-app/static/css/main.e6c13ad2.css.map",
+    "main.c5bb57ee.js.map": "/chinese-calendar-app/static/js/main.c5bb57ee.js.map",
+    "787.238c9406.chunk.js.map": "/chinese-calendar-app/static/js/787.238c9406.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.366669d3.js"
+    "static/js/main.c5bb57ee.js"
   ]
 }
